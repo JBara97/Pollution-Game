@@ -14,3 +14,5 @@ Data for a variety of experiments and conditions. Namely:
         N = 50, R = 5, T = 201, epsilon = 0.01
     c) Density/
         Similar to experiments in Mutation/ folder but now also varies density (ie number of agents)
+4) Animations
+    Gifs and other animations
